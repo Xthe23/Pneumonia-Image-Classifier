@@ -25,8 +25,8 @@ Approach:
 
 Results:
 
-        Our CNN model achieved a high level of accuracy in classifying chest X-ray images as Normal or Pneumonia. The model's 
-        performance was validated through comprehensive evaluation metrics, demonstrating its potentioal utility in clinical settings.
+        Our CNN model achieved a high level of accuracy (~98%) in classifying chest X-ray images as Normal or Pneumonia. The model's 
+        performance was validated through comprehensive evaluation metrics, demonstrating its potential utility in clinical settings.
 
 Ethical Considerations:
 
